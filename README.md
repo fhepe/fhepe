@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fhepe
+- 👀 I’m interested in react, go and flutter
+- 🌱 I’m currently learning react native
